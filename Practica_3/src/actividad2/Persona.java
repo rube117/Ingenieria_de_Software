@@ -12,11 +12,8 @@ package actividad2;
 public abstract class Persona {
 
     private String nombre;
-    private String ocupacion;
-    private String lugar_de_estudio;
+    private String nivel_de_estudio;
     private String profesion;
-    private float peso;
-    private float estatura;
     private byte edad;
 
     public abstract void ocupacion();
@@ -32,20 +29,12 @@ public abstract class Persona {
         this.nombre = nombre;
     }
 
-    public String getOcupacion() {
-        return ocupacion;
+    public String getNivel_de_estudio() {
+        return nivel_de_estudio;
     }
 
-    public void setOcupacion(String ocupacion) {
-        this.ocupacion = ocupacion;
-    }
-
-    public String getLugar_de_estudio() {
-        return lugar_de_estudio;
-    }
-
-    public void setLugar_de_estudio(String lugar_de_estudio) {
-        this.lugar_de_estudio = lugar_de_estudio;
+    public void setNivel_de_estudio(String lugar_de_estudio) {
+        this.nivel_de_estudio = lugar_de_estudio;
     }
 
     public String getProfesion() {
@@ -54,22 +43,6 @@ public abstract class Persona {
 
     public void setProfesion(String profesion) {
         this.profesion = profesion;
-    }
-
-    public float getPeso() {
-        return peso;
-    }
-
-    public void setPeso(float peso) {
-        this.peso = peso;
-    }
-
-    public float getEstatura() {
-        return estatura;
-    }
-
-    public void setEstatura(float estatura) {
-        this.estatura = estatura;
     }
 
     public byte getEdad() {

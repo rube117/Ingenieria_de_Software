@@ -77,6 +77,11 @@ public class Persona {
     public void setEdad(byte edad) {
         this.edad = edad;
     }
+    
+    public float CalculoIMC() {
+        // Aquí se puede calcular el IMC
+        return (float) (getPeso() / (getEstatura() * getEstatura()));
+    }
 
     public String Checar_Edad() {
         String retorno;
