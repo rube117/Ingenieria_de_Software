@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ingenieria_de_software;
+package practica3B;
 
 /**
  *
  * @author Rubén
  */
-public class Ingenieria_de_Software {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public abstract class Estudiante extends Persona {
     
+
+    public abstract void nivel();
+    
+    @Override
+    public void ocupacion() {
+        setTipo("Estudiante");
+    }
+
 }
