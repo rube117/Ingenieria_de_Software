@@ -1,0 +1,11 @@
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\bin\Debug\Practica_2.exe.config
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\bin\Debug\Practica_2.exe
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\bin\Debug\Practica_2.pdb
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.csprojAssemblyReference.cache
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.Properties.Resources.resources
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.csproj.GenerateResource.cache
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.csproj.CoreCompileInputs.cache
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.exe
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.pdb
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.Ingresar.resources
+E:\Ingeniería de Software\Practica_2\Practica_2\Practica_2\obj\Debug\Practica_2.Mostrar_Empleados.resources
