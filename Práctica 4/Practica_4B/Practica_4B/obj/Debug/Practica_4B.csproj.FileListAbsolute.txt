@@ -1,0 +1,11 @@
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\bin\Debug\Practica_4B.exe.config
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\bin\Debug\Practica_4B.exe
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\bin\Debug\Practica_4B.pdb
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.csprojAssemblyReference.cache
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.Menu.resources
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.Properties.Resources.resources
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.csproj.GenerateResource.cache
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.exe
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.pdb
+C:\Users\Rubén\Desktop\Ingeniería de Software\Práctica_4\Practica_4B\Practica_4B\obj\Debug\Practica_4B.Marcadores.resources
