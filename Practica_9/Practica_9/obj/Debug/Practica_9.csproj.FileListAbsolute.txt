@@ -1,0 +1,28 @@
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.exe.config
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.exe
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.pdb
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csprojAssemblyReference.cache
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.Form1.resources
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.Properties.Resources.resources
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csproj.GenerateResource.cache
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.exe
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.pdb
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.automotor.resources
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.menu.resources
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.control_automotor.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.exe.config
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.exe
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\bin\Debug\Practica_9.pdb
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csprojAssemblyReference.cache
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.automotor.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.control_automotor.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.Form1.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.menu.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.Properties.Resources.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.ventas.resources
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csproj.GenerateResource.cache
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.csproj.CoreCompileInputs.cache
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.exe
+C:\Users\T-\Desktop\Práctica_9\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.pdb
+C:\Users\Usuario 1\Documents\UNITEC\Ciclo 19-2\Ingeniería de Software\Práctica_9\Practica_9\Practica_9\obj\Debug\Practica_9.ventas.resources
